@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Mohamed Hasan
 
 🎓 B.E Computer Science Engineering Student  
-💻 F Python • Django 
+💻  Python • Django 
 🤖 Interested in ML-Powered Systems & Scalable Applications  
 
 ---
